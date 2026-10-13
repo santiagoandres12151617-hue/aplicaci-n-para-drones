@@ -1,0 +1,3 @@
+id|email|passwordHash|nombre|fechaRegistro
+1|admin@unicaribe.edu|5f4dcc3b5aa765d61d8327deb882cf99|Administrador|2025-01-15
+2|juan@unicaribe.edu|e10adc3949ba59abbe56e057f20f883e|Juan Pérez|2025-01-16
